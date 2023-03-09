@@ -12,8 +12,8 @@ Clients:
 
 Subscribing URL:
 
-- Clash: `https://raw.githubusercontent.com/vveg26/get_proxy/main/dist/clash.config.yaml`
-- V2Ray: `https://raw.githubusercontent.com/vveg26/get_proxy/main/dist/v2ray.config.txt`
+- Clash: `https://raw.githubusercontent.com/syly315531/get_proxy/main/dist/clash.config.yaml`
+- V2Ray: `https://raw.githubusercontent.com/syly315531/get_proxy/main/dist/v2ray.config.txt`
 
 ## 如何运行
 ### 如何操作
